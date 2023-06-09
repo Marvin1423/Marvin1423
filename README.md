@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Marvin1423">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marvin1423&show_icons=true&theme=transparent"/>     </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/? username=Marvin1423&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvin1423&layout=compact&langs_count=6&theme=transparent"/></a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marvin1423&show_icons=true&theme=transparent"/>     </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/? username=Marvin1423&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvin1423&layout=compact&langs_count=6&theme=transparent"/></a>
 </div>
 <div align="center" valign="top"><br>
  <p>Habilidades em ascensão</p>
