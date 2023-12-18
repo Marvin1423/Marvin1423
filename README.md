@@ -6,7 +6,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/? username=Marvin1423&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvin1423&layout=compact&langs_count=6&theme=transparent"/></a>
 </div>
 <div align="center" valign="top"><br>
- <p>Habilidades em ascensão</p>
+ <p>Tecnologias</p>
 
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,7 +16,7 @@
  </div><br>
  
 <div align="center">
-    <p>👇 contate-se comigo</p>
+    <p>👇 Redes Sociais</p>
    <a href="www.linkedin.com/in/arthur1423" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="arthurmarvin1423@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
